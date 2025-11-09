@@ -1,0 +1,7 @@
+TextMesh Pro/
+Resources/
+Models/Marmoset/*.fbx
+*.meta
+*/*.meta
+*/*/*.meta
+*/*/*/*.meta
